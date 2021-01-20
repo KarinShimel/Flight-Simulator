@@ -41,8 +41,3 @@ In order to launch the program follow the next steps:
  4) Start the program with a .txt file containing the commands.
  5) Open flight-gear and click `Fly!`.
  
- -------------
-
-### Project status
-Currently working with .txt files containing the commands and specs for takeoff.   
-Awaiting next assingment for more features  :wink:.	
